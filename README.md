@@ -5,7 +5,7 @@ Goal
 1) Select upto 5 Categories from a selction
 2) Randomly display questions from selected categories
 3) Check answer and award points.
-4) Store High Scores 
+4) Store High Scores in  txt file stored in a txt file?
 
 
 Bonus
